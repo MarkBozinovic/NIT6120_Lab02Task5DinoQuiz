@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">NIT6120_Lab02Task5DinoQuiz</string>
+    <string name="action_settings">Settings</string>
+    <string name="my_best_text">My Best Text is Android</string>
+    <string name="question_text">Are birds nearest relatives to dinosaurs?</string>
+    <string name="true_button">Correct</string>
+    <string name="false_button">Wrong</string>
+    <string name="correct_toast">This is correct</string>
+    <string name="incorrect_toast">Unfortunately, this is wrong</string>
+    <string name="next_button"> Next </string>
+    <string name="prev_button"> Previous </string>
+    <string name="question_birds">Are the birds the closest relatives of dinosaurs?</string>
+    <string name="question_nessi">The last surviving dinosaur is the sea monster Nessi</string>
+    <string name="question_jurassic">The Jurassic Park is a sanctuary for dinosaurs</string>
+    <string name="question_veggi">All dinosaurs were vegetarians</string>
+    <string name="question_biggest">Rex was the largest dinosaur</string>
+    <string name="title_activity_true_false">TrueFalse</string>
+
+</resources>
